@@ -1,0 +1,1 @@
+Implementations of various data structures and algorithims in Python. Written by me for fun and pedagological purposes.
